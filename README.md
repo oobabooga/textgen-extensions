@@ -636,3 +636,9 @@ A simple Loorebook extension for Oobabooga's text generation web-ui. It adds the
 Also has support for importing and exporting silly tavern lorebooks already made.
 
 <https://github.com/Quiet-Joker/Lorebook-Extension-for-Oobabooga>
+
+## audio_cpp
+
+Real-time TTS for bot replies via [audio.cpp](https://github.com/0xShug0/audio.cpp). Voices each bot reply as it streams in (per-token), with a Web UI to pick the TTS model and voice, per-model sampling settings, and a saved `.opus` per reply. The live stream is encoded in-process via libopus (no ffmpeg); saved replies are encoded with ffmpeg.
+
+<https://github.com/Th-Underscore/audio_cpp>
