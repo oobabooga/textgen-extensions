@@ -636,3 +636,12 @@ A simple Loorebook extension for Oobabooga's text generation web-ui. It adds the
 Also has support for importing and exporting silly tavern lorebooks already made.
 
 <https://github.com/Quiet-Joker/Lorebook-Extension-for-Oobabooga>
+
+## Desearch
+
+Adds a manual Desearch search tab using the hosted Desearch MCP search tool.
+Displays up to ten titled HTTPS sources to copy into chat. Requires a Desearch API
+key; no model is needed for the search tab. Tested with the documented pinned
+macOS arm64 portable text-generation-webui environment.
+
+https://github.com/Desearch-ai/desearch-oobabooga
